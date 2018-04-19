@@ -414,3 +414,7 @@ ipset=/jqmt.qq.com/tocn
 ipset=/shacc.music.qq.com/tocn
 ipset=/szacc.music.qq.com/tocn
 ipset=/comet2.music.qq.com/tocn
+ipset=/101.227.169.200/tocn
+ipset=/205.151.23.20/tocn
+ipset=/182.254.116.116/tocn
+ipset=/182.254.116.117/tocn
